@@ -69,5 +69,6 @@ Full-stack CRUD web app built with Java Servlets, JSP, MySQL & JDBC using MVC ar
 ---
 
 ### 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Balendra9713-a318b5255)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://balendra9713portfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/balendra-rao-a318b5255)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:balendra971354@gmail.com)
